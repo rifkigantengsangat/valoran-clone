@@ -1,0 +1,19 @@
+.rifki{
+    -webkit-text-stroke: 1px white;
+}
+.rifky{
+    -webkit-text-stroke: 1px #ff4655;
+}
+.box{
+
+
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.warna{
+    background: linear-gradient(to right,#0f1923 0%,#0f1923 60%,#fd4553 60%,#fd4553 100%)
+}
